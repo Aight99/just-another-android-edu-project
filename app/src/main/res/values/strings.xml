@@ -4,7 +4,10 @@
     <string name="login_password">Пароль</string>
     <string name="btn_login">Вход</string>
     <string name="btn_register">Регистрация</string>
-    <string name="auth_input_error">Ошибка ввода данных!</string>
+    <string name="input_error">Ошибка ввода данных!</string>
     <string name="auth_succeed">Добро пожаловать!</string>
     <string name="user_avatar_description">User\'s avatar</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="registration_succeed">Пользователь успешно добавлен</string>
+    <string name="email_already_exist">Данный Email уже зарегистрирован</string>
 </resources>
